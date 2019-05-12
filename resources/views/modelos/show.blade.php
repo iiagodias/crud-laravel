@@ -1,0 +1,1 @@
+Você esta visualizando <strong>{{ $modelo->modelo }}</strong>
